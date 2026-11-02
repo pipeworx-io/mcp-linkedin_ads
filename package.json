@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-linkedin_ads",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "LinkedIn Ads MCP Pack",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "linkedin_ads",
     "gatewaySlug": "linkedin_ads",
-    "sourceHash": "v1-311652c41729b1c19eac6acaf26e7f9c59ae49afa308c9b3264d11c886aa0cb9",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-4f6cd147ab621428a6dd863072a4bfa244e6656522eecccd42b70f4be8de870a",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
